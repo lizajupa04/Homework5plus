@@ -136,7 +136,7 @@ body {
   -webkit-backdrop-filter: blur(10px);
   border-top: 2px solid rgba(255, 255, 255, 0.521);
   border-left: 2px solid rgba(255, 255, 255, 0.521);
-  box-shadow: 3px 7px 6px rgba(124, 124, 124, 0.267);
+  box-shadow: 3px 7px 6px rgba(117, 117, 117, 0.267);
   position: relative;
   margin-top: 20px;
   margin-bottom: 20px;
